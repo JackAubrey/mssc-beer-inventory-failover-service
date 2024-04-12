@@ -5,7 +5,7 @@
 	<parent>
 		<groupId>com.github.sfg-beer-works</groupId>
 		<artifactId>sfg-beer-works-bom</artifactId>
-		<version>1.0.1</version>
+		<version>1.0.4</version>
 	</parent>
 	<groupId>guru.springframework</groupId>
 	<artifactId>mssc-beer-inventory-failover-service</artifactId>
@@ -19,4 +19,14 @@
 			<artifactId>spring-boot-starter-webflux</artifactId>
 		</dependency>
 	</dependencies>
+	<repositories>
+		<repository>
+			<id>github</id>
+			<url>https://maven.pkg.github.com/JackAubrey/*</url>
+			<snapshots>
+				<enabled>true</enabled>
+				<updatePolicy>always</updatePolicy>
+			</snapshots>
+		</repository>
+	</repositories>
 </project>
