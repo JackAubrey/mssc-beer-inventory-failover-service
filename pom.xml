@@ -16,6 +16,12 @@
 	<properties>
 		<project.repo-name>mssc-beer-inventory-failover-service</project.repo-name>
 	</properties>
+	<scm>
+		<connection>scm:git:git@github.com:JackAubrey/${project.repo-name}.git</connection>
+		<developerConnection>scm:git:git@github.com:JackAubrey/${project.repo-name}.git</developerConnection>
+		<url>https://github.com/JackAubrey/${project.repo-name}</url>
+		<tag>HEAD</tag>
+	</scm>
 
 	<dependencies>
 		<dependency>
