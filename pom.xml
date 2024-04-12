@@ -8,7 +8,7 @@
 	</parent>
 	<groupId>guru.springframework</groupId>
 	<artifactId>mssc-beer-inventory-failover-service</artifactId>
-	<version>0.0.3</version>
+	<version>0.0.4-SNAPSHOT</version>
 	<name>mssc-beer-inventory-failover-service</name>
 	<description>MSSC Beer Inventory Failover Service</description>
 	<url>https://github.com/JackAubrey/mssc-beer-inventory-failover-service</url>
@@ -30,7 +30,7 @@
 		<connection>scm:git:git@github.com:JackAubrey/mssc-beer-inventory-failover-service.git</connection>
 		<developerConnection>scm:git:git@github.com:JackAubrey/mssc-beer-inventory-failover-service.git</developerConnection>
 		<url>https://github.com/JackAubrey/mssc-beer-inventory-failover-service</url>
-	  <tag>mssc-beer-inventory-failover-service-0.0.3</tag>
+	  <tag>HEAD</tag>
   </scm>
 
 	<dependencies>
