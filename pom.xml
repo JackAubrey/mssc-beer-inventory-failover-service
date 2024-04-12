@@ -30,7 +30,6 @@
 		<connection>scm:git:git@github.com:JackAubrey/mssc-beer-inventory-failover-service.git</connection>
 		<developerConnection>scm:git:git@github.com:JackAubrey/mssc-beer-inventory-failover-service.git</developerConnection>
 		<url>https://github.com/JackAubrey/mssc-beer-inventory-failover-service</url>
-		<tag>HEAD</tag>
 	</scm>
 
 	<dependencies>
