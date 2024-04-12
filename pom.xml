@@ -4,7 +4,7 @@
 	<parent>
 		<groupId>com.github.sfg-beer-works</groupId>
 		<artifactId>sfg-beer-works-bom</artifactId>
-		<version>1.0.4</version>
+		<version>1.0.6</version>
 	</parent>
 	<groupId>guru.springframework</groupId>
 	<artifactId>mssc-beer-inventory-failover-service</artifactId>
@@ -13,25 +13,10 @@
 	<description>MSSC Beer Inventory Failover Service</description>
 	<url>https://github.com/JackAubrey/mssc-beer-inventory-failover-service</url>
 	<packaging>jar</packaging>
-	<licenses>
-		<license>
-			<name>GNU General Public License v3.0</name>
-			<url>https://www.gnu.org/licenses/gpl.txt</url>
-		</license>
-	</licenses>
-	<developers>
-		<developer>
-			<name>Danilo</name>
-			<organization>SFG Students</organization>
-		</developer>
-	</developers>
 
-	<scm>
-		<connection>scm:git:git@github.com:JackAubrey/mssc-beer-inventory-failover-service.git</connection>
-		<developerConnection>scm:git:git@github.com:JackAubrey/mssc-beer-inventory-failover-service.git</developerConnection>
-		<url>https://github.com/JackAubrey/mssc-beer-inventory-failover-service</url>
-	  <tag>HEAD</tag>
-  </scm>
+	<properties>
+		<project.repo-name>mssc-beer-inventory-failover-service</project.repo-name>
+	</properties>
 
 	<dependencies>
 		<dependency>
