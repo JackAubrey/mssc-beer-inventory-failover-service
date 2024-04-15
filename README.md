@@ -10,7 +10,6 @@ You can learn more about the courses here:
 * [Testing Spring Boot: Beginner to Guru](https://www.udemy.com/testing-spring-boot-beginner-to-guru/?couponCode=GITHUB_REPO_SF5B2G)
 
 ## Commands used to push to DockerHub and manage the version:
-* mvn clean package -DskipTests docker:build docker:push
 * mvn release:prepare
 * mvn release:perform
 * git checkout tags/<TAG>
