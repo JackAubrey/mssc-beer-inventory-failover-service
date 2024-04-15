@@ -8,7 +8,7 @@
 	</parent>
 	<groupId>guru.springframework</groupId>
 	<artifactId>mssc-beer-inventory-failover-service</artifactId>
-	<version>0.0.7</version>
+	<version>1.0.0</version>
 	<name>mssc-beer-inventory-failover-service</name>
 	<description>MSSC Beer Inventory Failover Service</description>
 
@@ -21,7 +21,7 @@
 		<connection>scm:git:git@github.com:JackAubrey/${project.repo-name}.git</connection>
 		<developerConnection>scm:git:git@github.com:JackAubrey/${project.repo-name}.git</developerConnection>
 		<url>https://github.com/JackAubrey/${project.repo-name}</url>
-		<tag>0.0.7</tag>
+		<tag>HEAD</tag>
 	</scm>
 
 	<dependencies>
