@@ -11,11 +11,12 @@
 	<version>0.0.7-SNAPSHOT</version>
 	<name>mssc-beer-inventory-failover-service</name>
 	<description>MSSC Beer Inventory Failover Service</description>
-	<url>https://github.com/JackAubrey/mssc-beer-inventory-failover-service</url>
+
 	<packaging>jar</packaging>
 	<properties>
 		<project.repo-name>mssc-beer-inventory-failover-service</project.repo-name>
 	</properties>
+	<url>https://github.com/JackAubrey/${project.repo-name}</url>
 	<scm>
 		<connection>scm:git:git@github.com:JackAubrey/${project.repo-name}.git</connection>
 		<developerConnection>scm:git:git@github.com:JackAubrey/${project.repo-name}.git</developerConnection>
