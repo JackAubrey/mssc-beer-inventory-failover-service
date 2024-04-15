@@ -7,7 +7,7 @@
 		<version>1.1.1</version>
 	</parent>
 	<groupId>guru.springframework</groupId>
-	<artifactId>mssc-beer-inventory-failover-service</artifactId>
+	<artifactId>mssc-beer-failover-inventory-service</artifactId>
 	<version>1.0.2-SNAPSHOT</version>
 	<name>mssc-beer-inventory-failover-service</name>
 	<description>MSSC Beer Inventory Failover Service</description>
