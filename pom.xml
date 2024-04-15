@@ -49,4 +49,11 @@
 			</plugin>
 		</plugins>
 	</build>
+	<distributionManagement>
+		<repository>
+			<id>github</id>
+			<name>GitHub JackAubrey Apache Maven Packages</name>
+			<url>https://maven.pkg.github.com/JackAubrey/${project.repo-name}</url>
+		</repository>
+	</distributionManagement>
 </project>
