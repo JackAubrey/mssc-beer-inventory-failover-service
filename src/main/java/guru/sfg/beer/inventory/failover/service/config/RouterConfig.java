@@ -1,5 +1,6 @@
-package guru.sfg.beer.inventory.failover.service.web.controller;
+package guru.sfg.beer.inventory.failover.service.config;
 
+import guru.sfg.beer.inventory.failover.service.web.controller.InventoryHandler;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
